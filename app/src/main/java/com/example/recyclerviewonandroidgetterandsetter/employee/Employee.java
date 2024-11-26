@@ -5,6 +5,7 @@ public class Employee {
     private String department;
     private String email;
 
+    // Fixed the errors
     public Employee(String name, String department, String email) {
         this.name = name;
         this.department = department;
