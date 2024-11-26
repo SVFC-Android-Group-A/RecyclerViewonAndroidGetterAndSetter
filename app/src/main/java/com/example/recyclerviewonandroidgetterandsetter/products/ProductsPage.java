@@ -17,6 +17,7 @@ import java.util.List;
 
 public class ProductsPage extends AppCompatActivity {
 
+    // Fixed the errors
     EditText etName, etPrice, etCategory;
     Button btnAddItem;
 
