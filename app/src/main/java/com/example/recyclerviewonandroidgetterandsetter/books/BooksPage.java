@@ -17,8 +17,9 @@ import java.util.List;
 
 public class BooksPage extends AppCompatActivity {
 
+    // Fixed the errors
     RecyclerView rvBook;
-    List<Books> bookList = new ArrayList<>(); // Use Books class consistently
+    List<Books> bookList = new ArrayList<>();
     BooksAdapter booksAdapter;
 
     EditText etTitle, etAuthor, etGenre;
