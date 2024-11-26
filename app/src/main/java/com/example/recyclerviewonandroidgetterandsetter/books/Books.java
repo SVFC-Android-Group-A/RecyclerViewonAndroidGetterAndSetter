@@ -15,7 +15,7 @@ public class Books {
 
     public Books() {}
 
-    //getter and setter part
+    //Getter and Setter, but improved
     public String getTitle() {
         return title;
     }
