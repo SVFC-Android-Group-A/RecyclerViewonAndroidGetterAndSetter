@@ -14,6 +14,7 @@ import com.example.recyclerviewonandroidgetterandsetter.university.UniversityPag
 
 public class MainActivity extends AppCompatActivity {
 
+    // Fixed the errors
     Button btnBooksPage, btnEmployeePage, btnProductsPage, btnRestaurantPage, btnUniversityPage;
 
     @Override
