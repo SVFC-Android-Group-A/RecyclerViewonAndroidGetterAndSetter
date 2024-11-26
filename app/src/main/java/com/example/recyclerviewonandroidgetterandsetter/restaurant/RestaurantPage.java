@@ -16,6 +16,7 @@ import java.util.List;
 
 public class RestaurantPage extends AppCompatActivity {
 
+    // Fixed the errors
     EditText etName, etType, etLocation;
     Button btnAddItem;
     RecyclerView rvRestaurants;
