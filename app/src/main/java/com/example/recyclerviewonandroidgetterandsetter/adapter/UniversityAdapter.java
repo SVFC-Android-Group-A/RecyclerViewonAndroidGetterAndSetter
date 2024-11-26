@@ -15,6 +15,7 @@ import java.util.List;
 
 public class UniversityAdapter extends RecyclerView.Adapter<UniversityAdapter.UniversityViewHolder> {
 
+    // This is the adapter for the university page
     private final List<University> universityList;
 
     public UniversityAdapter(List<University> universityList) {
