@@ -17,6 +17,7 @@ import java.util.List;
 
 public class UniversityPage extends AppCompatActivity {
 
+    // Fixed the errors
     private EditText etName, etType, etWebsite;
     private Button btnAddItem;
     private RecyclerView rvUniversities;
