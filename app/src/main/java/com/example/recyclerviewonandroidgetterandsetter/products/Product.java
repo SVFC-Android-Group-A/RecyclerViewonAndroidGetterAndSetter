@@ -5,7 +5,7 @@ public class Product {
     private String name;
     private String category;
 
-    // Default constructor
+    // Fixed the errors
     public Product() {}
 
     // Parameterized constructor
