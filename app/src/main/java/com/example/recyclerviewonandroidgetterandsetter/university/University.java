@@ -3,9 +3,9 @@ package com.example.recyclerviewonandroidgetterandsetter.university;
 public class University {
     private String name;
     private String type;
-
     private String website;
 
+    // Fixed the errors
     public University(String name, String type, String website) {
         this.name = name;
         this.type = type;
