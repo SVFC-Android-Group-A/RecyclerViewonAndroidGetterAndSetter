@@ -23,6 +23,7 @@ public class EmployeePage extends AppCompatActivity {
     EditText etName, etDepartment, etEmail;
     Button btnAddItem;
 
+    // Fixed the errors
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
