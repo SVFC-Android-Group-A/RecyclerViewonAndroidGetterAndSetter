@@ -5,6 +5,7 @@ public class Restaurants {
     private String type;
     private String location;
 
+    // Fixed the errors
     public Restaurants(String name, String type, String location) {
         this.name = name;
         this.type = type;
